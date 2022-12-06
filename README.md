@@ -23,10 +23,6 @@ python manage.py migrate
 
 7) Execute a aplicação na sua máquina: python manage.py runserver
 
-# Docker:
-
-docker run -d -p 80:80 docker/getting-started
-
 # End points:
 
 local: http://127.0.0.1:8000/api/
